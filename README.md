@@ -11,4 +11,4 @@
 - 📫 How to reach me: rajneeshsharma540@gmail.com , [Linkdin: rajnishgeek](https://www.linkedin.com/in/rajnishgeek/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Music, Food
-<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=rajnishgeek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
