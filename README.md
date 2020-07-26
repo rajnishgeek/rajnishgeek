@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Rajnish
+# A passinate Full Stack Web Developmer from India
+# I am pursuing a B.E degree in Computer Science from NSUT, Delhi.
 
-<!--
-**rajnishgeek/rajnishgeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on To-Do Project
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on Open Sourse Projects
+- 🤔 I’m looking for help with Data Science
+- 💬 Ask me about Data Structure and Algorithms, Web Development.
+- 📫 How to reach me: rajneeshsharma540@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: Music, Food
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
