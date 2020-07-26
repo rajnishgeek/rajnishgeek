@@ -1,6 +1,5 @@
-### Hi there 👋, I'm Rajnish
-# A passinate Full Stack Web Developmer from India
-# I am pursuing a B.E degree in Computer Science from NSUT, Delhi.
+# Hi there 👋, I'm Rajnish
+## A passinate Full Stack Web Developmer from India. I am pursuing a B.E degree in Computer Science from NSUT, Delhi.
 
 
 - 🔭 I’m currently working on To-Do Project
