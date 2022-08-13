@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Rajnish
-I am pursuing a B.E degree in Computer Science from Netaji Subhas Institute of Technology (Currently NSUT), University of Delhi. I am a software developer and computer programmer with an avid interest in Data Structures, Algorithms, Full Stack Web Development, App Development, and Optimization.
+I have done B.E degree in Computer Science from Netaji Subhas Institute of Technology (Currently NSUT), University of Delhi. I am a software developer and computer programmer with an avid interest in Data Structures, Algorithms, Full Stack Web Development, App Development, and Optimization.
 
 As a core programmer I love coding, and taking on challenges and love being part of the solution. I strongly believe that technology can greatly help in solving day to day problems, thereby creates a significant impact in transforming the lives of the people. I am interested in working on challenging and real-time projects.
 
